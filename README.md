@@ -29,8 +29,8 @@ This project provides a complete data pipeline to ingest, model, and analyze fir
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/franscagnetti/sf-fire-incidents
+cd sf-fire-incidents
 ```
 
 ### 2. Create a virtual environment
